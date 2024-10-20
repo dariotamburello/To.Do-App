@@ -4,8 +4,8 @@
 
 <p>A to-do app built with React, featuring local storage for tasks, light and dark mode, and drag-and-drop functionality for task management. Ideal for organizing tasks with a simple, responsive interface.</p>
 
-![Todo app capture](https://resume-portfolio-psi-lemon.vercel.app/preview.webp)
+![Todo app capture](https://to-do-app-eight-psi-96.vercel.app/preview.jpg)
 
 > **Test it!**  
-> Access to: [https://resume-portfolio-psi-lemon.vercel.app/en/](https://resume-portfolio-psi-lemon.vercel.app/en/)  
+> Access to: [https://to-do-app-eight-psi-96.vercel.app/](https://to-do-app-eight-psi-96.vercel.app/)  
 > or donwload the code and `npm run dev`
