@@ -33,7 +33,7 @@ export const Header = () => {
         <header className="sticky top-5 z-10 px-5">
             <form className="flex flex-row gap-2 items-center opacity-0 animate-fadeInUp" onSubmit={submitForm}>
                 <input onChange={handleInputTask} type="text" value={newTaskInput} ref={newTaskFocusRef}
-                    placeholder={`What's do you want to do?`}
+                    placeholder={`What do you want to do?`}
                     className="border-[1px] rounded-lg px-2 py-2 flex-1 text-md transition-colors
                     border-zinc-700 bg-zinc-100 hover:bg-zinc-100 text-zinc-800
                     dark:border-zinc-200 dark:bg-zinc-700 dark:hover:bg-zinc-900 dark:text-zinc-200"/>
